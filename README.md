@@ -1,4 +1,4 @@
-# CMOS Amplifier IC Design
+# CMOS Amplifier IC Design — Tapeout in progress
 
 A CMOS amplifier designed from schematic to physical layout as an analog IC design project.
 
