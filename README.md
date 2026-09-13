@@ -9,6 +9,12 @@ The project focuses on transistor-level analog design, biasing, phase compensati
   <img src="docs/layout.png" width="45%">
 </p>
 
+## Tapeout Status
+
+This amplifier design is planned for fabrication with support from **ISHI-Kai**, a Japanese semiconductor community promoting open and accessible IC design and fabrication.
+
+The design is currently proceeding toward tapeout, which is expected to be completed this winter.
+
 ## Project Overview
 
 - Circuit: CMOS amplifier
