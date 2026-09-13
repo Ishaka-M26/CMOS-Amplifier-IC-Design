@@ -1,6 +1,6 @@
-# CMOS Operational Amplifier IC Design
+# CMOS Amplifier IC Design
 
-A CMOS operational amplifier designed from schematic to physical layout as an analog IC design project.
+A CMOS amplifier designed from schematic to physical layout as an analog IC design project.
 
 The project focuses on transistor-level analog design, biasing, phase compensation, physical layout, and verification using SPICE, xschem, and KLayout.
 
@@ -11,7 +11,7 @@ The project focuses on transistor-level analog design, biasing, phase compensati
 
 ## Project Overview
 
-- Circuit: CMOS operational amplifier
+- Circuit: CMOS amplifier
 - Design flow: Schematic → SPICE simulation → Layout → DRC / LVS
 - Tools: xschem, ngspice, KLayout
 - Focus: Analog IC design and physical layout
