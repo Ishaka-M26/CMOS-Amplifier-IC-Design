@@ -80,7 +80,7 @@ The compensation network was adjusted through SPICE simulation to improve amplif
 The compensation values were tuned while observing the frequency response so that sufficient phase margin could be obtained and oscillation could be avoided.
 
 <p align="center">
-  <img src="docs/phase_response.png" width="75%">
+  <img src="docs/phase_compensation.png" width="75%">
 </p>
 
 ## Physical Layout
@@ -96,7 +96,7 @@ Double vias were used in selected interconnects to improve physical robustness.
 Guard rings were also considered as a possible noise-isolation technique, but were not implemented in this version of the layout.
 
 <p align="center">
-  <img src="docs/layout_detail.png" width="75%">
+  <img src="docs/layout.png" width="75%">
 </p>
 
 ## Verification
