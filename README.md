@@ -117,6 +117,8 @@ Design Rule Checking was performed to verify that the layout satisfies the fabri
   <img src="docs/drc_result.png" width="80%">
 </p>
 
+No errors.
+
 ### LVS
 
 Layout Versus Schematic verification was performed to confirm that the extracted layout connectivity matches the intended schematic.
@@ -124,6 +126,8 @@ Layout Versus Schematic verification was performed to confirm that the extracted
 <p align="center">
   <img src="docs/lvs_result.png" width="80%">
 </p>
+
+All Green.
 
 ## What I Learned
 
